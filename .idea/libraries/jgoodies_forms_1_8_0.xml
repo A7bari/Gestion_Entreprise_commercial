@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jgoodies-forms-1.8.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/eclipse-workspace/mysql-connector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
